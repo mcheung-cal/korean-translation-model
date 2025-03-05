@@ -1,6 +1,6 @@
 # 🌏 NLP Model for Korean-English Translation with Formality Adaptation
 
-## Collaborators: Eliot Arntz, Richard Zhang
+## Collaborators: Eliot Arntz, Richard Zhang, Michelle Cheung
 
 ## 📝 Description  
 This project develops an advanced **Natural Language Processing (NLP) model** for translating between **Korean and English**, with a focus on handling **formality levels** in Korean. By fine-tuning **LLaMa 2-7B** with **Parameter-Efficient Fine-Tuning (PEFT) and Quantized Low-Rank Adaptation (qLoRA)**, the model improves translation accuracy and contextual understanding of Korean honorifics and politeness levels.
