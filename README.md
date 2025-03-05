@@ -25,16 +25,6 @@ This project develops an advanced **Natural Language Processing (NLP) model** fo
   - **Formal Medium** (요)  
   - **Informal** (다 / 어)  
 
-## 📊 Model Evaluation  
-| Metric  | Baseline Model | Fine-Tuned Model (No Formality) | Fine-Tuned Model (With Formality) |
-|---------|---------------|--------------------------------|----------------------------------|
-| **BLEU** | 0.0000 | 0.0231 | 0.0152 |
-| **ROUGE-1 (F1)** | 0.000385 | 0.229 | 0.161 |
-| **ROUGE-2 (F1)** | 0.000 | 0.093 | 0.079 |
-| **ROUGE-L (F1)** | 0.000385 | 0.206 | 0.147 |
-| **BERT F1** | 0.764 | 0.836 | 0.817 |
-| **COMET (Human Judgment)** | 0.277 | 0.397 | 0.414 |
-
 📌 **Findings**: The **fine-tuned model with formality levels** improves human-judgment-aligned translation (**higher COMET scores**) while maintaining high **semantic similarity (BERT scores)**.
 
 ## 🔗 Project Report & Code  
